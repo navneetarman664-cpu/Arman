@@ -1,0 +1,6 @@
+{
+  "name": "मेरो नेपाली सिकाइ (Mero Nepali Sikai)",
+  "description": "Fun, interactive Nepali learning app for kids aged 3–8 with letters, numbers, animals, colors, rhymes, educational games, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
